@@ -113,8 +113,8 @@ namespace Punchlogictest.Services
                 // create employee
                 EmployeeResult employeeResult = new EmployeeResult();
                 // set hours and wages ; set to 4th decimal place.
-                employeeResult.regular = Math.Round(regular,4);
-                employeeResult.overtime = Math.Round(overtime,4);
+                employeeResult.regular = Math.Round(regular, 4);
+                employeeResult.overtime = Math.Round(overtime, 4);
                 employeeResult.doubletime = Math.Round(doubleTime, 4);
                 employeeResult.wageTotal = Math.Round(wageTotal, 4);
                 employeeResult.benefitTotal = Math.Round(benefitTotal, 4);
@@ -136,6 +136,20 @@ namespace Punchlogictest.Services
 
             File.WriteAllText(filePath, jsonString);
 
+            // --- Print results as JSON to console ---
+            Console.WriteLine("Results in JSON format:");
+            Console.WriteLine(jsonString);
+            Message();
+
+        }
+        public static void Message()
+        {
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("Results saved to results.json in Data Folder");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }

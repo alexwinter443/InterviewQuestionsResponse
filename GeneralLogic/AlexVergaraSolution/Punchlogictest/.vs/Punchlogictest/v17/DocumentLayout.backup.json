@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\",
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\desktop\\send\\punchlogictest\\punchlogictest\\services\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\documents\\myprojects\\punchlogictest\\punchlogictest\\services\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|solutionrelative:punchlogictest\\services\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\desktop\\send\\punchlogictest\\punchlogictest\\services\\loadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\documents\\myprojects\\punchlogictest\\punchlogictest\\services\\loadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|solutionrelative:punchlogictest\\services\\loadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\desktop\\send\\punchlogictest\\punchlogictest\\models\\timepunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\documents\\myprojects\\punchlogictest\\punchlogictest\\models\\timepunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|solutionrelative:punchlogictest\\models\\timepunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\desktop\\send\\punchlogictest\\punchlogictest\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\documents\\myprojects\\punchlogictest\\punchlogictest\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|solutionrelative:punchlogictest\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\desktop\\send\\punchlogictest\\punchlogictest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|c:\\users\\alex\\documents\\myprojects\\punchlogictest\\punchlogictest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84FB2EC7-DFCC-470E-B6CB-496BB319B933}|Punchlogictest\\Punchlogictest.csproj|solutionrelative:punchlogictest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Program.cs",
               "RelativeDocumentMoniker": "Punchlogictest\\Program.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Program.cs",
               "RelativeToolTip": "Punchlogictest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:34:09.986Z",
               "EditorCaption": ""
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Models\\Result.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Models\\Result.cs",
               "RelativeDocumentMoniker": "Punchlogictest\\Models\\Result.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Models\\Result.cs",
               "RelativeToolTip": "Punchlogictest\\Models\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,9 +62,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Timepunch.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Models\\Timepunch.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Models\\Timepunch.cs",
               "RelativeDocumentMoniker": "Punchlogictest\\Models\\Timepunch.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Models\\Timepunch.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Models\\Timepunch.cs",
               "RelativeToolTip": "Punchlogictest\\Models\\Timepunch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,9 +75,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoadJson.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Services\\LoadJson.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Services\\LoadJson.cs",
               "RelativeDocumentMoniker": "Punchlogictest\\Services\\LoadJson.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Services\\LoadJson.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Services\\LoadJson.cs",
               "RelativeToolTip": "Punchlogictest\\Services\\LoadJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -88,11 +88,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculation.cs",
-              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Services\\Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Services\\Calculation.cs",
               "RelativeDocumentMoniker": "Punchlogictest\\Services\\Calculation.cs",
-              "ToolTip": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Services\\Calculation.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\Punchlogictest\\Punchlogictest\\Services\\Calculation.cs",
               "RelativeToolTip": "Punchlogictest\\Services\\Calculation.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAgwHMAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwI8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T06:48:07.103Z",
               "EditorCaption": ""
