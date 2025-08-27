@@ -1,0 +1,68 @@
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.exe
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.deps.json
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.runtimeconfig.json
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\refint\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\ref\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlog.7566CC1B.Up2Date
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Punchlogictest.exe
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Punchlogictest.deps.json
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Punchlogictest.runtimeconfig.json
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlog.7566CC1B.Up2Date
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\refint\Punchlogictest.dll
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\Punchlogictest.genruntimeconfig.cache
+C:\Users\Alex\source\repos\Punchlogictest - Copy\Punchlogictest\obj\Debug\net8.0\ref\Punchlogictest.dll
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.exe
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.deps.json
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.runtimeconfig.json
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfo.cs
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlog.7566CC1B.Up2Date
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\refint\Punchlogictest.dll
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.genruntimeconfig.cache
+C:\Users\Alex\Documents\myprojects\Punchlogictest\Punchlogictest\obj\Debug\net8.0\ref\Punchlogictest.dll
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.exe
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.deps.json
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.runtimeconfig.json
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlog.7566CC1B.Up2Date
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.dll
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\refint\Punchlogictest.dll
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.pdb
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\Punchlogictest.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Send\Punchlogictest\Punchlogictest\obj\Debug\net8.0\ref\Punchlogictest.dll

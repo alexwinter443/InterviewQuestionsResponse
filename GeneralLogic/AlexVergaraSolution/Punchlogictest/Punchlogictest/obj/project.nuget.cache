@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bODc39YBXp4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Send\\Punchlogictest\\Punchlogictest\\Punchlogictest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,31 @@
+{
+  "employeeResult": [
+    {
+      "Id": 0,
+      "employee": "Mike",
+      "regular": 39.2856,
+      "overtime": 0,
+      "doubletime": 0,
+      "wageTotal": 1056.4017,
+      "benefitTotal": 36.832
+    },
+    {
+      "Id": 1,
+      "employee": "Steve",
+      "regular": 40,
+      "overtime": 8,
+      "doubletime": 1.1658,
+      "wageTotal": 1653.5979,
+      "benefitTotal": 49.9036
+    },
+    {
+      "Id": 2,
+      "employee": "Alex",
+      "regular": 40,
+      "overtime": 3.6428,
+      "doubletime": 0,
+      "wageTotal": 795.3979,
+      "benefitTotal": 44.5985
+    }
+  ]
+}
