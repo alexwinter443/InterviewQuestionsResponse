@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\myprojects\\TimePunches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A91B8-6775-47D6-99D8-F0AEB7B433C2}|TimePunches\\TimePunches.csproj|c:\\users\\alex\\documents\\myprojects\\timepunches\\timepunches\\pages\\uploadjson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A91B8-6775-47D6-99D8-F0AEB7B433C2}|TimePunches\\TimePunches.csproj|solutionrelative:timepunches\\pages\\uploadjson.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UploadJson.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\myprojects\\TimePunches\\TimePunches\\Pages\\UploadJson.cshtml.cs",
+              "RelativeDocumentMoniker": "TimePunches\\Pages\\UploadJson.cshtml.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\myprojects\\TimePunches\\TimePunches\\Pages\\UploadJson.cshtml.cs",
+              "RelativeToolTip": "TimePunches\\Pages\\UploadJson.cshtml.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T07:23:23.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

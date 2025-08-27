@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TimePunches.Models
+{
+    public class employeeData
+    {
+        public string employee { get; set; }
+        public List<Timepunch> timePunch { get; set; }
+
+
+    }
+}

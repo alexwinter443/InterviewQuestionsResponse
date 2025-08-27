@@ -1,0 +1,96 @@
+{
+  "jobMeta": [
+    {
+      "job": "Hospital - Painter",
+      "rate": 31.25,
+      "benefitsRate": 1
+    },
+    {
+      "job": "Hospital - Laborer",
+      "rate": 20.0,
+      "benefitsRate": 0.5
+    },
+    {
+      "job": "Shop - Laborer",
+      "rate": 16.25,
+      "benefitsRate": 1.25
+    }
+  ],
+  "employeeData": [
+    {
+      "employee": "John",
+      "timePunch": [
+        {
+          "job": "Shop - Laborer",
+          "start": "2022-03-05 07:15:22",
+          "end": "2022-03-05 11:40:11"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-03-05 12:25:45",
+          "end": "2022-03-05 16:55:32"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2022-03-06 06:59:10",
+          "end": "2022-03-06 11:33:47"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2022-03-06 12:20:12",
+          "end": "2022-03-06 17:10:58"
+        }
+      ]
+    },
+    {
+      "employee": "Maria",
+      "timePunch": [
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-03-05 06:30:14",
+          "end": "2022-03-05 11:28:33"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2022-03-05 12:15:59",
+          "end": "2022-03-05 15:42:06"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-03-06 07:05:01",
+          "end": "2022-03-06 12:02:44"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2022-03-06 13:00:15",
+          "end": "2022-03-06 17:55:29"
+        }
+      ]
+    },
+    {
+      "employee": "Kevin",
+      "timePunch": [
+        {
+          "job": "Hospital - Laborer",
+          "start": "2022-03-05 08:00:00",
+          "end": "2022-03-05 12:00:00"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2022-03-05 12:45:00",
+          "end": "2022-03-05 17:05:55"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-03-06 06:55:12",
+          "end": "2022-03-06 11:44:36"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2022-03-06 12:30:28",
+          "end": "2022-03-06 17:22:49"
+        }
+      ]
+    }
+  ]
+}

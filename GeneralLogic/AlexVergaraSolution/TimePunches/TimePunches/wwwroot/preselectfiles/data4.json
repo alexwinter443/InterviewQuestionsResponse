@@ -1,0 +1,126 @@
+{
+  "jobMeta": [
+    {
+      "job": "Hospital - Painter",
+      "rate": 31.25,
+      "benefitsRate": 1
+    },
+    {
+      "job": "Hospital - Laborer",
+      "rate": 20.0,
+      "benefitsRate": 0.5
+    },
+    {
+      "job": "Shop - Laborer",
+      "rate": 16.25,
+      "benefitsRate": 1.25
+    }
+  ],
+  "employeeData": [
+    {
+      "employee": "Sophia",
+      "timePunch": [
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-01 06:50:10",
+          "end": "2023-05-01 11:35:22"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-01 12:10:33",
+          "end": "2023-05-01 16:25:50"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2023-05-02 07:15:05",
+          "end": "2023-05-02 11:00:40"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-02 11:45:22",
+          "end": "2023-05-02 15:35:30"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-03 08:05:12",
+          "end": "2023-05-03 12:50:45"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2023-05-03 13:25:33",
+          "end": "2023-05-03 17:15:22"
+        }
+      ]
+    },
+    {
+      "employee": "Liam",
+      "timePunch": [
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-01 07:10:18",
+          "end": "2023-05-01 11:55:05"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-01 12:35:32",
+          "end": "2023-05-01 16:20:44"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2023-05-02 06:40:12",
+          "end": "2023-05-02 11:10:21"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-02 11:50:00",
+          "end": "2023-05-02 15:30:50"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-03 07:20:33",
+          "end": "2023-05-03 12:05:15"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-03 12:40:12",
+          "end": "2023-05-03 17:25:18"
+        }
+      ]
+    },
+    {
+      "employee": "Ava",
+      "timePunch": [
+        {
+          "job": "Hospital - Laborer",
+          "start": "2023-05-01 06:55:22",
+          "end": "2023-05-01 11:40:33"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-01 12:20:10",
+          "end": "2023-05-01 16:05:55"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-02 06:30:12",
+          "end": "2023-05-02 11:15:50"
+        },
+        {
+          "job": "Hospital - Painter",
+          "start": "2023-05-02 11:50:20",
+          "end": "2023-05-02 16:40:10"
+        },
+        {
+          "job": "Shop - Laborer",
+          "start": "2023-05-03 07:05:33",
+          "end": "2023-05-03 12:00:45"
+        },
+        {
+          "job": "Hospital - Laborer",
+          "start": "2023-05-03 12:45:12",
+          "end": "2023-05-03 17:30:15"
+        }
+      ]
+    }
+  ]
+}

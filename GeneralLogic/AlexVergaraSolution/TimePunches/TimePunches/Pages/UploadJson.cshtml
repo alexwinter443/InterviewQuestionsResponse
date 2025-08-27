@@ -1,0 +1,40 @@
+﻿@page
+@model TimePunches.Pages.UploadJsonModel
+@{
+    ViewData["Title"] = "Upload or Select JSON File";
+}
+
+<h2>Upload a JSON File</h2>
+
+<!-- For file upload-->
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <!-- upload only Json file-->
+        <label for="jsonFile">Choose JSON file:</label>
+        <input type="file" id="jsonFile" name="JsonFile" accept=".json" class="form-control" />
+    </div>
+    <!-- Submit button-->
+    <button type="submit" class="btn btn-primary mt-2">Upload</button>
+</form>
+<!-- For preselected files-->
+<h2 class="mt-4">Or Select a Preselected File</h2>
+<div class="tiles">
+    <!-- gets all files-->
+    @foreach (var file in Model.PreselectedFiles)
+    {
+        <!-- upon click do post method for selected title-->
+        <form method="post" class="d-inline">
+            <input type="hidden" name="SelectedFile" value="@file" />
+            <button type="submit" class="btn btn-secondary m-1">@file</button>
+        </form>
+    }
+</div>
+
+@if (!string.IsNullOrEmpty(Model.UploadMessage))
+{
+    <div class="alert alert-info mt-3">@Model.UploadMessage</div>
+    @if (!string.IsNullOrEmpty(Model.ProcessedFileLink))
+    {
+        <p><a href="@Model.ProcessedFileLink" target="_blank">View Processed File</a></p>
+    }
+}
